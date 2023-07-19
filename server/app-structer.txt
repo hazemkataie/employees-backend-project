@@ -1,0 +1,17 @@
+
+
+|_____Controllers
+|     |_____empolyee.controller.js
+|
+|_____middlewares
+|     |_____index.js
+|
+|_____models
+|     |_____employee.models.js
+|
+|_____services
+|     |_____employee.service.js
+|     |_____index.js
+|
+|__db.js
+|__index.js
