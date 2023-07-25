@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const dbUri = 'mongodb+srv://admin:123123123@cluster0.plas4qd.mongodb.net/employee_db?retryWrites=true&w=majority'
+const dbUri = 'mongodb+srv://<username>:<password>@cluster0.plas4qd.mongodb.net/<database-name>?retryWrites=true&w=majority'
 
 mongoose.set('strictQuery',false)
 module.exports = ()=> {
